@@ -1,0 +1,7 @@
+class kmeans(self,):
+    def init(self,num,center):
+    def update(self,):
+    sef getDistance(self,):
+    def train():
+    def predict():
+    
